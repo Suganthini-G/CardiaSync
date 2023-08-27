@@ -1,4 +1,4 @@
-# flutter_test_application_1
+# CardiaSync
 
 A new Flutter project.
 
