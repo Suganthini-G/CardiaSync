@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="77px" viewBox="0 0 77 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>@0.5xwarning</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="100%" id="radialGradient-1">
+            <stop stop-color="#F54F66" stop-opacity="0.323918269" offset="0%"></stop>
+            <stop stop-color="#E72736" stop-opacity="0.282288024" offset="100%"></stop>
+        </radialGradient>
+        <linearGradient x1="14.645%" y1="14.645%" x2="85.355%" y2="85.355%" id="linearGradient-2">
+            <stop stop-color="#F44F5A" offset="0%"></stop>
+            <stop stop-color="#EE3D4A" offset="44.3%"></stop>
+            <stop stop-color="#E52030" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Confirmed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Error-Handling-4" transform="translate(-217.000000, -270.000000)" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(20.000000, 250.000000)">
+                <g id="warning" transform="translate(197.000000, 20.000000)">
+                    <circle id="Oval" fill="url(#radialGradient-1)" opacity="0.127325149" cx="38.5" cy="38.5" r="38.5"></circle>
+                    <g id="icons8-error" transform="translate(11.000000, 11.000000)">
+                        <path d="M55,27.5 C55,42.686875 42.686875,55 27.5,55 C12.313125,55 0,42.686875 0,27.5 C0,12.313125 12.313125,0 27.5,0 C42.686875,0 55,12.313125 55,27.5 Z" id="Path" fill="url(#linearGradient-2)"></path>
+                        <path d="M27.789,43 C26.691,43 25.785,42.667 25.071,42.001 C24.357,41.335 24,40.5295 24,39.5815 C24,38.593 24.36,37.783 25.0815,37.1515 C25.8015,36.52 26.7045,36.205 27.789,36.205 C28.887,36.205 29.787,36.5245 30.486,37.162 C31.1865,37.801 31.536,38.6065 31.536,39.5815 C31.536,40.57 31.1895,41.386 30.4965,42.031 C29.8035,42.676 28.9005,43 27.789,43 Z M31.122,14.0815 L30.4005,32.344 C30.378,32.902 29.919,33.343 29.361,33.343 L26.0925,33.343 C25.533,33.343 25.074,32.9005 25.053,32.341 L24.3705,14.08 C24.348,13.4905 24.8205,13 25.41,13 L30.084,13 C30.6735,13 31.146,13.4905 31.122,14.0815 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

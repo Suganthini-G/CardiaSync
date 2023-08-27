@@ -1,0 +1,5 @@
+Normal
+Left bundle branch block beat
+Right bundle branch block beat
+Atrial premature beat
+Premature ventricular contraction

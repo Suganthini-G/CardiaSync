@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="77px" viewBox="0 0 77 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>@0.5xinfo</title>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="7.8%"></stop>
+            <stop stop-color="#FFF5A3" offset="20.2%"></stop>
+            <stop stop-color="#FFF392" offset="21.6%"></stop>
+            <stop stop-color="#FFEE5F" offset="26.3%"></stop>
+            <stop stop-color="#FFEA37" offset="30.7%"></stop>
+            <stop stop-color="#FFE71A" offset="34.7%"></stop>
+            <stop stop-color="#FFE508" offset="38.2%"></stop>
+            <stop stop-color="#FFE402" offset="40.8%"></stop>
+            <stop stop-color="#FDDE02" offset="54.5%"></stop>
+            <stop stop-color="#F9CC01" offset="73.6%"></stop>
+            <stop stop-color="#F2AF00" offset="95.6%"></stop>
+            <stop stop-color="#F0A800" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="26.77%" cy="-7.67142857%" fx="26.77%" fy="-7.67142857%" r="143.8%" gradientTransform="translate(0.267700,-0.076714),scale(0.700000,1.000000),translate(-0.267700,0.076714)" id="radialGradient-2">
+            <stop stop-color="#6E757B" offset="0%"></stop>
+            <stop stop-color="#4A4E52" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Confirmed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Error-Handling-3" transform="translate(-169.000000, -311.000000)" fill-rule="nonzero">
+            <g id="Group-10" transform="translate(20.000000, 291.000000)">
+                <g id="info" transform="translate(149.000000, 20.000000)">
+                    <circle id="Oval" fill="url(#radialGradient-1)" opacity="0.127325149" cx="38.5" cy="38.5" r="38.5"></circle>
+                    <circle id="Oval" fill="url(#radialGradient-1)" cx="37.804878" cy="38.804878" r="27.804878"></circle>
+                    <path d="M45.1219512,60.7560976 L30.4878049,60.7560976 C30.4878049,61.7804878 30.4878049,63.6829268 30.4878049,63.6829268 C30.4878049,67.7804878 33.7073171,71 37.804878,71 C41.902439,71 45.1219512,67.7804878 45.1219512,63.6829268 C45.1219512,63.6829268 45.1219512,61.7804878 45.1219512,60.7560976 Z" id="Path" fill="url(#radialGradient-2)"></path>
+                    <path d="M52.4390244,38.804878 C52.4390244,30.7560976 45.8536585,24.1707317 37.804878,24.1707317 C29.7560976,24.1707317 23.1707317,30.7560976 23.1707317,38.804878 C23.1707317,46.1219512 30.4878049,51.9756098 30.4878049,59.2926829 L30.4878049,60.7560976 L45.1219512,60.7560976 L45.1219512,59.2926829 C45.1219512,51.9756098 52.4390244,46.1219512 52.4390244,38.804878 Z" id="Path" fill="#FEFEFE"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

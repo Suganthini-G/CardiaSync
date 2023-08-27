@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "477481353990",
+    "firebase_url": "https://iot-ecg-c24ad-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-ecg-c24ad",
+    "storage_bucket": "iot-ecg-c24ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477481353990:android:864ca8deee2c5298645487",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477481353990-gsntthsjoc1j3bfi4ogr2de1sega9nja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu4n5dFwy4glZnAzdX_nkyfocwZ-EExgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477481353990-gsntthsjoc1j3bfi4ogr2de1sega9nja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477481353990:android:5d1190ed46c71f60645487",
+        "android_client_info": {
+          "package_name": "com.example.iot_ecg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477481353990-gsntthsjoc1j3bfi4ogr2de1sega9nja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu4n5dFwy4glZnAzdX_nkyfocwZ-EExgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477481353990-gsntthsjoc1j3bfi4ogr2de1sega9nja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

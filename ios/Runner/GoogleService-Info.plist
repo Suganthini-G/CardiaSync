@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>477481353990-t2gmnt3nn0fnihar4egdtths7uovbqkq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.477481353990-t2gmnt3nn0fnihar4egdtths7uovbqkq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDFW03dOP3IKW2Ay4zAWIjNJEuZamIdOSw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>477481353990</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterTestApplication1</string>
+	<key>PROJECT_ID</key>
+	<string>iot-ecg-c24ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iot-ecg-c24ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:477481353990:ios:b8352dfde97cbb08645487</string>
+	<key>DATABASE_URL</key>
+	<string>https://iot-ecg-c24ad-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
