@@ -1,6 +1,6 @@
 # CardiaSync
 
-A new Flutter project.
+A Flutter mobile app provides real-time ECG monitoring and also predict the arrythmia category, and the data is stored in Firebase.
 
 ## Getting Started
 
