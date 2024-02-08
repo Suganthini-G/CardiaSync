@@ -1,16 +1,31 @@
-# CardiaSync
+# ECG Monitoring System using Flutter
 
-A Flutter mobile app provides real-time ECG monitoring and also predict the arrythmia category, and the data is stored in Firebase.
+## Overview
+This mobile application monitors and visualizes ECG data in real-time. It connects to a Firebase database for data storage and communicates with an IoT device to collect ECG readings. The app also predicts arrhythmia categories using a deep learning model.
 
-## Getting Started
+## Purpose
+Research: Cost-Effective ECG Machine Synchronized to Mobile Phone for Data Display and Analysis
 
-This project is a starting point for a Flutter application.
+## Features
+- Cross-platform mobile app developed with Flutter.
+- Integration with Firebase for real-time data storage.
+- Communication with an IoT device for ECG data collection.
+- Real-time monitoring and visualization of ECG data.
+- Data analytics using a deep learning model.
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
+- Flutter SDK
+- Firebase account for database setup
+- IoT device for ECG data collection
+- Android or iOS device for testing the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+- Clone the repository: git clone [repository_url]
+- Navigate to the project directory: cd [project_directory]
+- Install dependencies: flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+- Configure Firebase: Set up a Firebase project and Realtime Database. Update the Firebase configuration in the app.
+- Set up IoT Device: Connect your IoT device to the app using the appropriate communication method.
+- Run the app: Connect your Android/iOS device or use an emulator. Run the app using flutter run.
+- Explore the ECG monitoring features: Add patient & Monitor real-time ECG data. Predict the arrhythmia category.
